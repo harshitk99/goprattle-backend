@@ -42,10 +42,10 @@ Create a `.env` file in the root of the `server` directory to configure environm
 PORT=10000
 
 # MongoDB Connection String
-MONGO_URI=mongodb+srv://admin:harshit2026@cluster0.mp8rj.mongodb.net/assignment
+MONGO_URI=<MONGODB URI>
 ```
 
-> **Note**: Replace the `MONGO_URI` with your own credentials if needed.
+> **Note**: Replace the `MONGO_URI` with your own credentials 
 
 ## 🏃‍♂️ Running the Server
 
